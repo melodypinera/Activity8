@@ -1,0 +1,54 @@
+.homestyle1:hover{
+    background-color: blue;
+}
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: lightslategray;
+}
+a {
+    margin-right: 20px;
+    text-decoration: none;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color:white;
+    font-weight: bold;
+ 
+}
+p {
+    background-color:green;
+    border-top: 5px solid slateblue;
+    border-bottom: 5px solid slateblue;
+    padding: 15px;
+    text-align: center;
+}
+img{
+    width: 400px;
+    height: 400px;
+    border: 3px solid darkgreen;
+    padding: 20px;
+    border-radius: 50%;
+    box-shadow: 20px 20px 5px darkgray;
+    display: block;
+    margin: auto;
+}
+table {
+    border: 1px solid green;
+    border-collapse: collapse;
+    background-color: 
+}
+td {
+    border: 1px solid green;
+    padding: 5px;
+}
+tr:nth-child(odd) {
+    background-color: darkkhaki;
+}
+tr:hover {
+    background-color: lightgray;
+    color: brown;
+    padding: 15px;
+}
